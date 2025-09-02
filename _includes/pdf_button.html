@@ -1,26 +1,11 @@
-<!-- _includes/pdf_button.html -->
-<button id="pdfButton" style="padding:10px 20px; border-radius:8px; border:none; background:#28a745; color:white; cursor:pointer; margin-bottom:20px;">
+<button onclick="window.print()" style="padding:10px 20px; border-radius:8px; border:none; background:#007acc; color:white; cursor:pointer; margin-bottom:20px;">
   📄 Export as PDF
 </button>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.2/html2pdf.bundle.min.js"></script>
-
-<script>
-document.getElementById("pdfButton").addEventListener("click", () => {
-  const element = document.body;
-  const opt = {
-    margin: 0.5,
-    filename: 'Pascal-Pierre-Sanchez-Carrion-CV.pdf',
-    image: { type: 'jpeg', quality: 0.98 },
-    html2canvas: { scale: 2 },
-    jsPDF: { unit: 'in', format: 'a4', orientation: 'portrait' }
-  };
-  html2pdf().from(element).set(opt).save();
-});
-</script>
-
 <style>
 @media print {
-  #pdfButton { display: none; }
+  button {
+    display: none; /* le bouton disparaît dans l'impression / PDF */
+  }
 }
 </style>
