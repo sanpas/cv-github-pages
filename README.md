@@ -1,13 +1,13 @@
 # 📑 Pascal Sanchez — CV
 
-[![GitHub Pages](https://img.shields.io/badge/View_Online-GitHub_Pages-2ea44f?logo=github)](https://USERNAME.github.io/)
+[![GitHub Pages](https://img.shields.io/badge/View_Online-GitHub_Pages-2ea44f?logo=github)](https://sanpas.github.io/cv-github-pages)
 
 ## 🌍 About
 This repository hosts my **personal CV** written in **Markdown** and published using **GitHub Pages**.  
 It is available in **French 🇫🇷** and **English 🇬🇧**.
 
-- [CV in French](https://USERNAME.github.io/fr/)
-- [Resume in English](https://USERNAME.github.io/en/)
+- [CV in French](https://sanpas.github.io/cv-github-pages)
+- [Resume in English](https://sanpas.github.io/cv-github-pages/en/)
 
 ## 🛠️ Tech Stack
 - [Markdown](https://www.markdownguide.org/) for content  
