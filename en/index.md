@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Resume - Pascal-Pierre Sanchez Carrion"
+title: "CV - Pascal-Pierre Sanchez Carrion"
 ---
 
 <div align="right">
