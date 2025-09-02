@@ -8,7 +8,12 @@ title: "Resume - Pascal-Pierre Sanchez Carrion"
 </div>
 
 # Pascal-Pierre Sanchez Carrion
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQHK3ysyWwVEDQ/profile-displayphoto-shrink_400_400/B4DZUtkcFKGcAg-/0/1740226282801?e=1759363200&v=beta&t=vQy2CkQfq-0eiXBzHFwJ8ZIt8XMiANBkUihQhb2dkYU" width="100" height="100" />
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQHK3ysyWwVEDQ/profile-displayphoto-shrink_400_400/B4DZUtkcFKGcAg-/0/1740226282801?e=1759363200&v=beta&t=vQy2CkQfq-0eiXBzHFwJ8ZIt8XMiANBkUihQhb2dkYU"     style="
+        width: 16rem;
+        height: 16rem;
+        border-radius: 50%;
+        border: 4px solid #1c2779;
+        object-fit: cover;" />
 
 **Email:** [sanchezcarrion.pascalpierre@gmail.com](mailto:sanchezcarrion.pascalpierre@gmail.com)  
 **LinkedIn:** [Pascal-Pierre Sanchez Carrion](https://www.linkedin.com/in/pascalpierresanchezcarrion/)
