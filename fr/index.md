@@ -6,7 +6,7 @@ title: "Resume - Pascal-Pierre Sanchez Carrion"
 <div align="right">
   <a href="/cv-github-pages/fr/">🇫🇷</a> | <a href="/cv-github-pages/en/">🇬🇧</a>
 </div>
-
+{% include pdf_button.html %}
 # Pascal-Pierre Sanchez Carrion
 <img src="https://media.licdn.com/dms/image/v2/D4D03AQHK3ysyWwVEDQ/profile-displayphoto-shrink_400_400/B4DZUtkcFKGcAg-/0/1740226282801?e=1759363200&v=beta&t=vQy2CkQfq-0eiXBzHFwJ8ZIt8XMiANBkUihQhb2dkYU"     style="
         width: 16rem;
