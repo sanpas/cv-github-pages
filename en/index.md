@@ -74,7 +74,7 @@ Broad vision combining software development, project management, and innovation,
 
 ---
 
-### ENGIE Solutions France – Software Engineer
+### ![ENGIE](https://media.licdn.com/dms/image/v2/D4E0BAQEY0HUKZF-hcg/company-logo_100_100/company-logo_100_100/0/1730719809971/engie_solutions_logo?e=1759968000&v=beta&t=wbjakMsTza3OUIHtLHvzBKBxHwR1bGgAIhLnyWRv-ns) ENGIE Solutions France – Software Engineer
 **Aug 2019 – Sep 2020 | Saint-Paul-lès-Durance, France**
 
 - Updated internal CMMS applications (Infor 11).  
@@ -93,7 +93,7 @@ Broad vision combining software development, project management, and innovation,
 
 ---
 
-### ENGIE Cofely France – Software Engineer
+### ![ENGIE](https://media.licdn.com/dms/image/v2/D4E0BAQEY0HUKZF-hcg/company-logo_100_100/company-logo_100_100/0/1730719809971/engie_solutions_logo?e=1759968000&v=beta&t=wbjakMsTza3OUIHtLHvzBKBxHwR1bGgAIhLnyWRv-ns) ENGIE Cofely France – Software Engineer
 **Feb 2017 – Feb 2018 | Saint-Paul-lès-Durance, France**
 
 - Migrated CMMS Cadarache (Maximo → Infor) and updated internal apps.  
@@ -111,7 +111,7 @@ Broad vision combining software development, project management, and innovation,
 
 ---
 
-### AREVA NP / Framatome – Development Engineer
+### ![AREVA](https://media.licdn.com/dms/image/v2/C4E0BAQGjz5G9Jfo5qQ/company-logo_100_100/company-logo_100_100/0/1631358423164?e=1759968000&v=beta&t=WHJhMV1-2KxG0OCSCox1dbZTueFuYaz2HFUoXsqaS7s) AREVA NP / Framatome – Development Engineer
 **Aug 2014 – Jul 2015 | Saint-Paul-lès-Durance, France**
 
 - Developed client/server project tracking application in C#, .NET, SQL Server, DevExpress.  
