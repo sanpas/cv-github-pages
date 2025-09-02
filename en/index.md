@@ -84,7 +84,7 @@ Broad vision combining software development, project management, and innovation,
 
 ---
 
-### SUDERIANE – Software Engineer
+### ![SUDERIANE](https://media.licdn.com/dms/image/v2/D4D0BAQF6iUEotbgu4A/company-logo_100_100/company-logo_100_100/0/1735630281059/suderiane_logo?e=1759968000&v=beta&t=ZwBAEVo7GTQ6cX-4d8lBzIFu9KjoAgeGMPGNk7rAXJU) SUDERIANE – Software Engineer
 **Mar 2018 – Jun 2019 | Manosque, France**
 
 - Managed and enhanced WMS (warehouse, carriers, customer accounts, EDI).  
