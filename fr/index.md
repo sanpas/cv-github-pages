@@ -5,7 +5,7 @@ title: "CV - Pascal-Pierre Sanchez Carrion"
 ---
 
 <div align="right">
-  <a href="/fr/">🇫🇷</a> | <a href="/en/">🇬🇧</a>
+  <a href="/cv-github-pages/fr/">🇫🇷</a> | <a href="/cv-github-pages/en/">🇬🇧</a>
 </div>
 
 # Pascal-Pierre Sanchez Carrion
