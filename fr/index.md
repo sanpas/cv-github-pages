@@ -1,9 +1,4 @@
 
----
-layout: default
-title: "CV - Pascal-Pierre Sanchez Carrion"
----
-
 <div align="right">
   <a href="/cv-github-pages/fr/">🇫🇷</a> | <a href="/cv-github-pages/en/">🇬🇧</a>
 </div>
