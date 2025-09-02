@@ -73,7 +73,7 @@ Vision globale alliant développement, gestion de projet et innovation, avec une
 
 ---
 
-### ENGIE Solutions France – Ingénieur Développement
+### ![ENGIE](https://media.licdn.com/dms/image/v2/D4E0BAQEY0HUKZF-hcg/company-logo_100_100/company-logo_100_100/0/1730719809971/engie_solutions_logo?e=1759968000&v=beta&t=wbjakMsTza3OUIHtLHvzBKBxHwR1bGgAIhLnyWRv-ns) ENGIE Solutions France – Ingénieur Développement
 **août 2019 – sept. 2020 | Saint-Paul-lès-Durance, France**
 
 - Mise à jour des applicatifs internes GMAO Infor 11.
@@ -92,7 +92,7 @@ Vision globale alliant développement, gestion de projet et innovation, avec une
 
 ---
 
-### ENGIE Cofely France – Ingénieur Développement
+### ![ENGIE](https://media.licdn.com/dms/image/v2/D4E0BAQEY0HUKZF-hcg/company-logo_100_100/company-logo_100_100/0/1730719809971/engie_solutions_logo?e=1759968000&v=beta&t=wbjakMsTza3OUIHtLHvzBKBxHwR1bGgAIhLnyWRv-ns) ENGIE Cofely France – Ingénieur Développement
 **févr. 2017 – févr. 2018 | Saint-Paul-lès-Durance, France**
 
 - Migration GMAO Cadarache (Maximo → Infor), mise à jour applicatifs internes.
@@ -110,7 +110,7 @@ Vision globale alliant développement, gestion de projet et innovation, avec une
 
 ---
 
-### AREVA NP – Intercontrôle / Framatome – Ingénieur Développement
+### ![AREVA](https://media.licdn.com/dms/image/v2/C4E0BAQGjz5G9Jfo5qQ/company-logo_100_100/company-logo_100_100/0/1631358423164?e=1759968000&v=beta&t=WHJhMV1-2KxG0OCSCox1dbZTueFuYaz2HFUoXsqaS7s) AREVA NP – Intercontrôle / Framatome – Ingénieur Développement
 **août 2014 – juil. 2015 | Saint-Paul-lès-Durance, France**
 
 - Développement application client/serveur suivi de projet en C#, .NET, SQL Server, DevExpress.
