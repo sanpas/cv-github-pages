@@ -8,7 +8,10 @@ title: "Resume - Pascal-Pierre Sanchez Carrion"
 </div>
 {% include pdf_button.html %}
 # Pascal-Pierre Sanchez Carrion
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQHK3ysyWwVEDQ/profile-displayphoto-shrink_400_400/B4DZUtkcFKGcAg-/0/1740226282801?e=1759363200&v=beta&t=vQy2CkQfq-0eiXBzHFwJ8ZIt8XMiANBkUihQhb2dkYU"     style="
+<img src="/cv-github-pages/assets/images/profile.jpg"
+     onerror="this.onerror=null; this.src='/cv-github-pages/assets/images/profile.svg';"
+     alt="Pascal-Pierre Sanchez Carrion"
+     style="
         width: 16rem;
         height: 16rem;
         border-radius: 50%;
@@ -30,7 +33,7 @@ Broad vision combining software development, project management, and innovation,
 
 ## Professional Experience
 
-### ![CEA](https://media.licdn.com/dms/image/v2/C4E0BAQEPVql0weI3Qg/company-logo_100_100/company-logo_100_100/0/1677003044696/cea_logo?e=1759363200&v=beta&t=6vXzkgq0MxwVTZKmDb9PCgeh1nbJCyE6UDw-NrUNFhI) CEA – Technical Application Lead
+### <img src="https://logo.clearbit.com/cea.fr" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="CEA"> CEA – Technical Application Lead
 **Mar 2024 – Present | Saint-Paul-lès-Durance, France**
 
 - Analyze, test, and integrate new solutions for CMMS.  
@@ -42,14 +45,14 @@ Broad vision combining software development, project management, and innovation,
 
 ---
 
-### ![Team for the Planet](https://media.licdn.com/dms/image/v2/C560BAQEa1RVp4n1JjA/company-logo_100_100/company-logo_100_100/0/1630586467289/time_for_the_planet_logo?e=1759968000&v=beta&t=0jnrufwqDZcT7nGnwTrNPhrjG8t0z0J5QPWick-prEM) Team for the Planet – Partner
+### <img src="https://logo.clearbit.com/time-for-the-planet.org" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="Team for the Planet"> Team for the Planet – Partner
 **Sep 2020 – Present | Aix-en-Provence, France**
 
 - Shareholder of the citizen fund financing open innovations against climate change.
 
 ---
 
-### ![Groupe SII](https://media.licdn.com/dms/image/v2/C4E0BAQGQikS9Fd-3Kw/company-logo_100_100/company-logo_100_100/0/1631320379623?e=1759363200&v=beta&t=zzV0lDhCj966_UBcwMNeOIYPoY0BP35GW7-bwP-QVWE) Groupe SII – Software Engineer
+### <img src="https://logo.clearbit.com/groupe-sii.com" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="Groupe SII"> Groupe SII – Software Engineer
 **Dec 2020 – Mar 2024 | Le Tholonet, France**
 
 - Development in C# / .NET / .NET Core 5 & 6, SQL/T-SQL, Xamarin.  
@@ -59,14 +62,14 @@ Broad vision combining software development, project management, and innovation,
 
 ---
 
-### ![ULYS](https://media.licdn.com/dms/image/v2/D4E0BAQGHiCFf6cX4pQ/company-logo_100_100/company-logo_100_100/0/1714065518190/ulysfr_logo?e=1759968000&v=beta&t=Nd2DAVen7TOfloCLy0uSYCqQOS3O_j1reXbPOxMfjgQ) ASF/Ulys – Full Stack .NET Consultant
+### <img src="https://logo.clearbit.com/ulys.fr" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="ULYS"> ASF/Ulys – Full Stack .NET Consultant
 **Mar 2022 – Feb 2024 | Ulys Project, Vinci Autoroutes**
 
 - Design and develop Ulys mobile application (Angular 14 / Ionic 6 / .NET Core 6 / API / Azure / Redis / Kafka / Microservices).
 
 ---
 
-### ![Organic Alliance](https://media.licdn.com/dms/image/v2/C560BAQFsYtC65FVX8g/company-logo_100_100/company-logo_100_100/0/1630604263050/organic_alliance_logo?e=1759968000&v=beta&t=nI8fyV93PucyhD-x1yXMb599aUb1p9z7rvMO043cdjo) Organic Alliance – Full Stack .NET Consultant
+### <img src="https://logo.clearbit.com/organicalliance.com" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="Organic Alliance"> Organic Alliance – Full Stack .NET Consultant
 **Jan 2021 – Mar 2022**
 
 - Mobile WMS development (Navision): Backend in .NET Core 5, Frontend in Xamarin MVVM.  
@@ -74,7 +77,7 @@ Broad vision combining software development, project management, and innovation,
 
 ---
 
-### ![ENGIE](https://media.licdn.com/dms/image/v2/D4E0BAQEY0HUKZF-hcg/company-logo_100_100/company-logo_100_100/0/1730719809971/engie_solutions_logo?e=1759968000&v=beta&t=wbjakMsTza3OUIHtLHvzBKBxHwR1bGgAIhLnyWRv-ns) ENGIE Solutions France – Software Engineer
+### <img src="https://logo.clearbit.com/engie.com" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="ENGIE"> ENGIE Solutions France – Software Engineer
 **Aug 2019 – Sep 2020 | Saint-Paul-lès-Durance, France**
 
 - Updated internal CMMS applications (Infor 11).  
@@ -84,7 +87,7 @@ Broad vision combining software development, project management, and innovation,
 
 ---
 
-### ![SUDERIANE](https://media.licdn.com/dms/image/v2/D4D0BAQF6iUEotbgu4A/company-logo_100_100/company-logo_100_100/0/1735630281059/suderiane_logo?e=1759968000&v=beta&t=ZwBAEVo7GTQ6cX-4d8lBzIFu9KjoAgeGMPGNk7rAXJU) SUDERIANE – Software Engineer
+### <img src="https://logo.clearbit.com/suderiane.com" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="SUDERIANE"> SUDERIANE – Software Engineer
 **Mar 2018 – Jun 2019 | Manosque, France**
 
 - Managed and enhanced WMS (warehouse, carriers, customer accounts, EDI).  
@@ -93,7 +96,7 @@ Broad vision combining software development, project management, and innovation,
 
 ---
 
-### ![ENGIE](https://media.licdn.com/dms/image/v2/D4E0BAQEY0HUKZF-hcg/company-logo_100_100/company-logo_100_100/0/1730719809971/engie_solutions_logo?e=1759968000&v=beta&t=wbjakMsTza3OUIHtLHvzBKBxHwR1bGgAIhLnyWRv-ns) ENGIE Cofely France – Software Engineer
+### <img src="https://logo.clearbit.com/engie.com" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="ENGIE"> ENGIE Cofely France – Software Engineer
 **Feb 2017 – Feb 2018 | Saint-Paul-lès-Durance, France**
 
 - Migrated CMMS Cadarache (Maximo → Infor) and updated internal apps.  
@@ -101,7 +104,7 @@ Broad vision combining software development, project management, and innovation,
 
 ---
 
-### ![CEA](https://media.licdn.com/dms/image/v2/C4E0BAQEPVql0weI3Qg/company-logo_100_100/company-logo_100_100/0/1677003044696/cea_logo?e=1759363200&v=beta&t=6vXzkgq0MxwVTZKmDb9PCgeh1nbJCyE6UDw-NrUNFhI) CEA – R&D Software Engineer
+### <img src="https://logo.clearbit.com/cea.fr" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="CEA"> CEA – R&D Software Engineer
 **Sep 2015 – Feb 2017 | Saint-Paul-lès-Durance, France**
 
 - Migrated CMMS Maximo → Infor EAM 11.  
@@ -111,7 +114,7 @@ Broad vision combining software development, project management, and innovation,
 
 ---
 
-### ![AREVA](https://media.licdn.com/dms/image/v2/C4E0BAQGjz5G9Jfo5qQ/company-logo_100_100/company-logo_100_100/0/1631358423164?e=1759968000&v=beta&t=WHJhMV1-2KxG0OCSCox1dbZTueFuYaz2HFUoXsqaS7s) AREVA NP / Framatome – Development Engineer
+### <img src="https://logo.clearbit.com/framatome.com" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="AREVA / Framatome"> AREVA NP / Framatome – Development Engineer
 **Aug 2014 – Jul 2015 | Saint-Paul-lès-Durance, France**
 
 - Developed client/server project tracking application in C#, .NET, SQL Server, DevExpress.  

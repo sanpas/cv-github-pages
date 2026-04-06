@@ -8,7 +8,10 @@ title: "Resume - Pascal-Pierre Sanchez Carrion"
 </div>
 {% include pdf_button.html %}
 # Pascal-Pierre Sanchez Carrion
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQHK3ysyWwVEDQ/profile-displayphoto-shrink_400_400/B4DZUtkcFKGcAg-/0/1740226282801?e=1759363200&v=beta&t=vQy2CkQfq-0eiXBzHFwJ8ZIt8XMiANBkUihQhb2dkYU"     style="
+<img src="/cv-github-pages/assets/images/profile.jpg"
+     onerror="this.onerror=null; this.src='/cv-github-pages/assets/images/profile.svg';"
+     alt="Pascal-Pierre Sanchez Carrion"
+     style="
         width: 16rem;
         height: 16rem;
         border-radius: 50%;
@@ -29,26 +32,26 @@ Vision globale alliant développement, gestion de projet et innovation, avec une
 
 ## Expérience Professionnelle
 
-### ![CEA](https://media.licdn.com/dms/image/v2/C4E0BAQEPVql0weI3Qg/company-logo_100_100/company-logo_100_100/0/1677003044696/cea_logo?e=1759363200&v=beta&t=6vXzkgq0MxwVTZKmDb9PCgeh1nbJCyE6UDw-NrUNFhI) CEA – Référent Technique Applicatif
-**mars 2024 – Aujourd’hui | Saint-Paul-lès-Durance, France**
+### <img src="https://logo.clearbit.com/cea.fr" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="CEA"> CEA – Référent Technique Applicatif
+**mars 2024 – Aujourd'hui | Saint-Paul-lès-Durance, France**
 
 - Analyse, tests et intégration de nouvelles solutions pour la GMAO.
 - Pilotage et évolution des outils de maintenance.
-- Supervision de l’affichage dynamique (TVTools).
-- Développement d’un système haute disponibilité pour l’acquisition temps réel.
+- Supervision de l'affichage dynamique (TVTools).
+- Développement d'un système haute disponibilité pour l'acquisition temps réel.
 
 **Compétences :** .NET, C#, SQL Server, SQLite, T-SQL, PowerShell, Python, C++, ASP.NET, API REST  
 
 ---
 
-### ![Team for the Planet](https://media.licdn.com/dms/image/v2/C560BAQEa1RVp4n1JjA/company-logo_100_100/company-logo_100_100/0/1630586467289/time_for_the_planet_logo?e=1759968000&v=beta&t=0jnrufwqDZcT7nGnwTrNPhrjG8t0z0J5QPWick-prEM) Team for the Planet – Associé
-**sept. 2020 – Aujourd’hui | Aix-en-Provence, France**
+### <img src="https://logo.clearbit.com/time-for-the-planet.org" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="Team for the Planet"> Team for the Planet – Associé
+**sept. 2020 – Aujourd'hui | Aix-en-Provence, France**
 
 - Membre actionnaire du fonds citoyen pour financer des innovations ouvertes contre le dérèglement climatique.
 
 ---
 
-### ![Groupe SII](https://media.licdn.com/dms/image/v2/C4E0BAQGQikS9Fd-3Kw/company-logo_100_100/company-logo_100_100/0/1631320379623?e=1759363200&v=beta&t=zzV0lDhCj966_UBcwMNeOIYPoY0BP35GW7-bwP-QVWE) Groupe SII – Ingénieur Développement
+### <img src="https://logo.clearbit.com/groupe-sii.com" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="Groupe SII"> Groupe SII – Ingénieur Développement
 **déc. 2020 – mars 2024 | Le Tholonet, France**
 
 - Développement en C# / .NET / .NET Core 5 & 6, SQL/T-SQL, Xamarin.
@@ -58,14 +61,14 @@ Vision globale alliant développement, gestion de projet et innovation, avec une
 
 ---
 
-### ![ULYS](https://media.licdn.com/dms/image/v2/D4E0BAQGHiCFf6cX4pQ/company-logo_100_100/company-logo_100_100/0/1714065518190/ulysfr_logo?e=1759968000&v=beta&t=Nd2DAVen7TOfloCLy0uSYCqQOS3O_j1reXbPOxMfjgQ) ASF/Ulys – Consultant Full Stack .NET
+### <img src="https://logo.clearbit.com/ulys.fr" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="ULYS"> ASF/Ulys – Consultant Full Stack .NET
 **mars 2022 – févr. 2024 | Projet Ulys, Vinci Autoroutes**
 
-- Conception et développement de l’application mobile Ulys (Angular 14 / Ionic 6 / .NET Core 6 / API / Azure / Redis / Kafka / Microservices).
+- Conception et développement de l'application mobile Ulys (Angular 14 / Ionic 6 / .NET Core 6 / API / Azure / Redis / Kafka / Microservices).
 
 ---
 
-### ![Organic Alliance](https://media.licdn.com/dms/image/v2/C560BAQFsYtC65FVX8g/company-logo_100_100/company-logo_100_100/0/1630604263050/organic_alliance_logo?e=1759968000&v=beta&t=nI8fyV93PucyhD-x1yXMb599aUb1p9z7rvMO043cdjo) Organic Alliance – Consultant Full Stack .NET
+### <img src="https://logo.clearbit.com/organicalliance.com" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="Organic Alliance"> Organic Alliance – Consultant Full Stack .NET
 **janv. 2021 – mars 2022**
 
 - Développement WMS Mobile (Navision) : Backend en .NET Core 5, Front en Xamarin MVVM.
@@ -73,17 +76,17 @@ Vision globale alliant développement, gestion de projet et innovation, avec une
 
 ---
 
-### ![ENGIE](https://media.licdn.com/dms/image/v2/D4E0BAQEY0HUKZF-hcg/company-logo_100_100/company-logo_100_100/0/1730719809971/engie_solutions_logo?e=1759968000&v=beta&t=wbjakMsTza3OUIHtLHvzBKBxHwR1bGgAIhLnyWRv-ns) ENGIE Solutions France – Ingénieur Développement
+### <img src="https://logo.clearbit.com/engie.com" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="ENGIE"> ENGIE Solutions France – Ingénieur Développement
 **août 2019 – sept. 2020 | Saint-Paul-lès-Durance, France**
 
 - Mise à jour des applicatifs internes GMAO Infor 11.
-- Réalisation d’outils d’extraction et d’analyse pour le suivi de maintenance.
-- Étude de processus métiers, cahiers des charges, réponse aux appels d’offres.
-- Développement d’applications Android internes.
+- Réalisation d'outils d'extraction et d'analyse pour le suivi de maintenance.
+- Étude de processus métiers, cahiers des charges, réponse aux appels d'offres.
+- Développement d'applications Android internes.
 
 ---
 
-### ![SUDERIANE](https://media.licdn.com/dms/image/v2/D4D0BAQF6iUEotbgu4A/company-logo_100_100/company-logo_100_100/0/1735630281059/suderiane_logo?e=1759968000&v=beta&t=ZwBAEVo7GTQ6cX-4d8lBzIFu9KjoAgeGMPGNk7rAXJU) SUDERIANE – Ingénieur Développement
+### <img src="https://logo.clearbit.com/suderiane.com" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="SUDERIANE"> SUDERIANE – Ingénieur Développement
 **mars 2018 – juin 2019 | Manosque, France**
 
 - Gestion et évolution WMS (logistique : entrepôt, transporteurs, comptes clients, EDI).
@@ -92,15 +95,15 @@ Vision globale alliant développement, gestion de projet et innovation, avec une
 
 ---
 
-### ![ENGIE](https://media.licdn.com/dms/image/v2/D4E0BAQEY0HUKZF-hcg/company-logo_100_100/company-logo_100_100/0/1730719809971/engie_solutions_logo?e=1759968000&v=beta&t=wbjakMsTza3OUIHtLHvzBKBxHwR1bGgAIhLnyWRv-ns) ENGIE Cofely France – Ingénieur Développement
+### <img src="https://logo.clearbit.com/engie.com" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="ENGIE"> ENGIE Cofely France – Ingénieur Développement
 **févr. 2017 – févr. 2018 | Saint-Paul-lès-Durance, France**
 
 - Migration GMAO Cadarache (Maximo → Infor), mise à jour applicatifs internes.
-- Développement d’applications Android internes pour suivi des interventions.
+- Développement d'applications Android internes pour suivi des interventions.
 
 ---
 
-### ![CEA](https://media.licdn.com/dms/image/v2/C4E0BAQEPVql0weI3Qg/company-logo_100_100/company-logo_100_100/0/1677003044696/cea_logo?e=1759363200&v=beta&t=6vXzkgq0MxwVTZKmDb9PCgeh1nbJCyE6UDw-NrUNFhI) CEA – Ingénieur R&D Logiciel
+### <img src="https://logo.clearbit.com/cea.fr" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="CEA"> CEA – Ingénieur R&D Logiciel
 **sept. 2015 – févr. 2017 | Saint-Paul-lès-Durance, France**
 
 - Migration GMAO Maximo → Infor EAM 11.
@@ -110,7 +113,7 @@ Vision globale alliant développement, gestion de projet et innovation, avec une
 
 ---
 
-### ![AREVA](https://media.licdn.com/dms/image/v2/C4E0BAQGjz5G9Jfo5qQ/company-logo_100_100/company-logo_100_100/0/1631358423164?e=1759968000&v=beta&t=WHJhMV1-2KxG0OCSCox1dbZTueFuYaz2HFUoXsqaS7s) AREVA NP – Intercontrôle / Framatome – Ingénieur Développement
+### <img src="https://logo.clearbit.com/framatome.com" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="AREVA / Framatome"> AREVA NP – Intercontrôle / Framatome – Ingénieur Développement
 **août 2014 – juil. 2015 | Saint-Paul-lès-Durance, France**
 
 - Développement application client/serveur suivi de projet en C#, .NET, SQL Server, DevExpress.
@@ -136,7 +139,6 @@ Vision globale alliant développement, gestion de projet et innovation, avec une
 
 ---
 
-### Centres d’intérêt
+### Centres d'intérêt
 
 - Randonnée, Photographie, Nouvelles technologies, Voyages locaux  
-
