@@ -32,7 +32,7 @@ Vision globale alliant développement, gestion de projet et innovation, avec une
 
 ## Expérience Professionnelle
 
-### <img src="https://img.logo.dev/cea.fr" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="CEA"> CEA – Référent Technique Applicatif
+### <img src="/cv-github-pages/assets/images/logos/cea.svg" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="CEA"> CEA – Référent Technique Applicatif
 **mars 2024 – Aujourd'hui | Saint-Paul-lès-Durance, France**
 
 - Analyse, tests et intégration de nouvelles solutions pour la GMAO.
@@ -44,14 +44,14 @@ Vision globale alliant développement, gestion de projet et innovation, avec une
 
 ---
 
-### <img src="https://img.logo.dev/time-for-the-planet.org" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="Team for the Planet"> Team for the Planet – Associé
+### <img src="/cv-github-pages/assets/images/logos/tftp.svg" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="Team for the Planet"> Team for the Planet – Associé
 **sept. 2020 – Aujourd'hui | Aix-en-Provence, France**
 
 - Membre actionnaire du fonds citoyen pour financer des innovations ouvertes contre le dérèglement climatique.
 
 ---
 
-### <img src="https://img.logo.dev/groupe-sii.com" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="Groupe SII"> Groupe SII – Ingénieur Développement
+### <img src="/cv-github-pages/assets/images/logos/sii.svg" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="Groupe SII"> Groupe SII – Ingénieur Développement
 **déc. 2020 – mars 2024 | Le Tholonet, France**
 
 - Développement en C# / .NET / .NET Core 5 & 6, SQL/T-SQL, Xamarin.
@@ -61,14 +61,14 @@ Vision globale alliant développement, gestion de projet et innovation, avec une
 
 ---
 
-### <img src="https://img.logo.dev/ulys.fr" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="ULYS"> ASF/Ulys – Consultant Full Stack .NET
+### <img src="/cv-github-pages/assets/images/logos/ulys.svg" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="ULYS"> ASF/Ulys – Consultant Full Stack .NET
 **mars 2022 – févr. 2024 | Projet Ulys, Vinci Autoroutes**
 
 - Conception et développement de l'application mobile Ulys (Angular 14 / Ionic 6 / .NET Core 6 / API / Azure / Redis / Kafka / Microservices).
 
 ---
 
-### <img src="https://img.logo.dev/organicalliance.com" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="Organic Alliance"> Organic Alliance – Consultant Full Stack .NET
+### <img src="/cv-github-pages/assets/images/logos/organic.svg" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="Organic Alliance"> Organic Alliance – Consultant Full Stack .NET
 **janv. 2021 – mars 2022**
 
 - Développement WMS Mobile (Navision) : Backend en .NET Core 5, Front en Xamarin MVVM.
@@ -76,7 +76,7 @@ Vision globale alliant développement, gestion de projet et innovation, avec une
 
 ---
 
-### <img src="https://img.logo.dev/engie.com" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="ENGIE"> ENGIE Solutions France – Ingénieur Développement
+### <img src="/cv-github-pages/assets/images/logos/engie.svg" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="ENGIE"> ENGIE Solutions France – Ingénieur Développement
 **août 2019 – sept. 2020 | Saint-Paul-lès-Durance, France**
 
 - Mise à jour des applicatifs internes GMAO Infor 11.
@@ -86,7 +86,7 @@ Vision globale alliant développement, gestion de projet et innovation, avec une
 
 ---
 
-### <img src="https://img.logo.dev/suderiane.com" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="SUDERIANE"> SUDERIANE – Ingénieur Développement
+### <img src="/cv-github-pages/assets/images/logos/suderiane.svg" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="SUDERIANE"> SUDERIANE – Ingénieur Développement
 **mars 2018 – juin 2019 | Manosque, France**
 
 - Gestion et évolution WMS (logistique : entrepôt, transporteurs, comptes clients, EDI).
@@ -95,7 +95,7 @@ Vision globale alliant développement, gestion de projet et innovation, avec une
 
 ---
 
-### <img src="https://img.logo.dev/engie.com" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="ENGIE"> ENGIE Cofely France – Ingénieur Développement
+### <img src="/cv-github-pages/assets/images/logos/engie.svg" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="ENGIE"> ENGIE Cofely France – Ingénieur Développement
 **févr. 2017 – févr. 2018 | Saint-Paul-lès-Durance, France**
 
 - Migration GMAO Cadarache (Maximo → Infor), mise à jour applicatifs internes.
@@ -103,7 +103,7 @@ Vision globale alliant développement, gestion de projet et innovation, avec une
 
 ---
 
-### <img src="https://img.logo.dev/cea.fr" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="CEA"> CEA – Ingénieur R&D Logiciel
+### <img src="/cv-github-pages/assets/images/logos/cea.svg" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="CEA"> CEA – Ingénieur R&D Logiciel
 **sept. 2015 – févr. 2017 | Saint-Paul-lès-Durance, France**
 
 - Migration GMAO Maximo → Infor EAM 11.
@@ -113,7 +113,7 @@ Vision globale alliant développement, gestion de projet et innovation, avec une
 
 ---
 
-### <img src="https://img.logo.dev/framatome.com" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="AREVA / Framatome"> AREVA NP – Intercontrôle / Framatome – Ingénieur Développement
+### <img src="/cv-github-pages/assets/images/logos/framatome.svg" width="30" height="30" style="vertical-align:middle;" onerror="this.style.display='none'" alt="AREVA / Framatome"> AREVA NP – Intercontrôle / Framatome – Ingénieur Développement
 **août 2014 – juil. 2015 | Saint-Paul-lès-Durance, France**
 
 - Développement application client/serveur suivi de projet en C#, .NET, SQL Server, DevExpress.
